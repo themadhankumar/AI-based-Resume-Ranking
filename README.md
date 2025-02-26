@@ -1,4 +1,4 @@
-# Resume Ranking Application
+# AI Based Resume Ranking System
 
 ## Overview
 
